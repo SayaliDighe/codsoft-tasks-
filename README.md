@@ -8,17 +8,6 @@ The dataset typically used for this project contains information
 about individual passengers, such as their age, gender, ticket
 class, fare, cabin, and whether or not they survived.
 
-##  5) CREDIT CARD FRAUD DETECTION
-
-Build a machine learning model to identify fraudulent credit card
-transactions.
-Preprocess and normalize the transaction data, handle class
-imbalance issues, and split the dataset into training and testing sets.
-Train a classification algorithm, such as logistic regression or random
-forests, to classify transactions as fraudulent or genuine.
-Evaluate the model's performance using metrics like precision, recall,and F1-score, and consider techniques like oversampling or
-undersampling for improving results.
-
 ##  3) IRIS FLOWER CLASSIFICATION
 The Iris flower dataset consists of three species: setosa, versicolor,
 and virginica. These species can be distinguished based on their
@@ -32,3 +21,17 @@ Use the Iris dataset to develop a model that can classify iris
 flowers into different species based on their sepal and petal
 measurements. This dataset is widely used for introductory
 classification tasks.
+
+
+##  5) CREDIT CARD FRAUD DETECTION
+
+Build a machine learning model to identify fraudulent credit card
+transactions.
+Preprocess and normalize the transaction data, handle class
+imbalance issues, and split the dataset into training and testing sets.
+Train a classification algorithm, such as logistic regression or random
+forests, to classify transactions as fraudulent or genuine.
+Evaluate the model's performance using metrics like precision, recall,and F1-score, and consider techniques like oversampling or
+undersampling for improving results.
+
+
